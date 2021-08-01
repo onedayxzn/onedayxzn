@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Sukma Ramadhan Asri**.  
+
+Saya seorang **Mahasiswa** di [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
+
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun sosial media saya.
+* [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
+* [Instagram](https://www.instagram.com/onedayxzn/).  
 
 <!--
 **onedayxzn/onedayxzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
