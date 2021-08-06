@@ -16,7 +16,7 @@ If you are interested in getting to know me, please follow my social media accou
 * [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
 * [Instagram](https://www.instagram.com/onedayxzn/).  
 
-🌱 I’m currently learning vueJS, Machine Learning and FLutter  
+🌱 I’m currently Learning Machine Learning 
 
 
 
@@ -30,7 +30,7 @@ If you are interested in getting to know me, please follow my social media accou
 * [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
 * [Instagram](https://www.instagram.com/onedayxzn/).  
 
-🌱 저는 현재 vue JS, Machine Learning 및 FLutter를 배우고 있습니다.
+🌱 저는 현재 Machine Learning 를 배우고 있습니다.
 
 
 <!--
