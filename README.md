@@ -10,7 +10,7 @@ If you are interested in getting to know me, please follow my social media accou
 * [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
 * [Instagram](https://www.instagram.com/onedayxzn/).  
 
-🌱 I’m currently Learning Machine Learning 
+🌱 I’m currently Learning Machine Learning and Design UIUX
 
 
 
