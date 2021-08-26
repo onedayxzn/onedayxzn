@@ -2,9 +2,9 @@
 
 # Hallo everyone
 
- I'm Sukma Ramadhan Asri
-
-I am a **college student**  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
+Hello, my name is **Sukma Ramadhan Asri**, you can call me **Sukma** I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
+<strong>I love doing Design and Redesign UI mobile apps or website, and sometimes making website</strong>  
+<strong>For design, I mainly using figma </strong>
 
 If you are interested in getting to know me, please follow my social media accounts.
 * [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
@@ -12,19 +12,6 @@ If you are interested in getting to know me, please follow my social media accou
 
 🌱 I’m currently Learning Machine Learning 
 
-
-
-# 안녕하세요 여러분
-
-나는 Sukma Ramadhan Asri
-
-저는 [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/)에서 **학생입니다**.
-
-저에 대해 알고 싶으시면 제 소셜 미디어 계정을 팔로우하세요.
-* [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
-* [Instagram](https://www.instagram.com/onedayxzn/).  
-
-🌱 저는 현재 Machine Learning 를 배우고 있습니다.
 
 
 <p align="left">
