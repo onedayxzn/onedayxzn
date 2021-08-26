@@ -1,9 +1,3 @@
-<p align="left">
-<a href="https://github.com/onedayxzn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onedayxzn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onedayxzn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 # Hallo everyone
@@ -31,6 +25,14 @@ If you are interested in getting to know me, please follow my social media accou
 * [Instagram](https://www.instagram.com/onedayxzn/).  
 
 🌱 저는 현재 Machine Learning 를 배우고 있습니다.
+
+
+<p align="left">
+<a href="https://github.com/onedayxzn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onedayxzn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onedayxzn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
