@@ -1,38 +1,18 @@
+# 💫About Me :
+Hallo everyone, my name is Sukma Ramadhan Asri, you can call me Sukma I'm currently a college student in Sekolah Tinggi Teknologi Bandung.
+I love doing Design and Redesign UI mobile apps or website, and sometimes making website
+For design, I mainly using figma
 
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onedayxzn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sukma-ramadhan-asri-96b27518b/) 
 
-# Hallo everyone
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-Hello, my name is **Sukma Ramadhan Asri**, you can call me **Sukma** I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
-<strong>I love doing Design and Redesign UI mobile apps or website, and sometimes making website</strong>  
-<strong>For design, I mainly using figma </strong>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=onedayxzn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onedayxzn&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onedayxzn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-If you are interested in getting to know me, please follow my social media accounts.
-* [Linkedin](https://linkedin.com/in/sukma-ramadhan-96b27518b/).  
-* [Instagram](https://www.instagram.com/onedayxzn/).  
-
-🌱 I’m currently Learning Machine Learning and Design UIUX
-
-
-
-<p align="left">
-<a href="https://github.com/onedayxzn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onedayxzn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onedayxzn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-<!--
-**onedayxzn/onedayxzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=onedayxzn&theme=discord&no-frame=true&no-bg=true&margin-w=4)
