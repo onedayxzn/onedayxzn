@@ -1,7 +1,5 @@
 # 💫About Me :
 Hallo everyone, my name is Sukma Ramadhan Asri, you can call me Sukma I'm currently a college student in Sekolah Tinggi Teknologi Bandung.
-I love doing Design and Redesign UI mobile apps or website, and sometimes making website
-For design, I mainly using figma
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onedayxzn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sukma-ramadhan-asri-96b27518b/) 
