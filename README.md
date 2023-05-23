@@ -2,8 +2,9 @@
 Hallo everyone, my name is Sukma Ramadhan Asri, you can call me Sukma I'm currently a college student in Sekolah Tinggi Teknologi Bandung.
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onedayxzn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukma-ramadhan-asri-96b27518b)
-[![Medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sukmaramadhanasri)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onedayxzn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukma-ramadhan-asri-96b27518b)
+[![Medium](https://img.shields.io/badge/medium-%23292929.svg?logo=medium&logoColor=white)](https://medium.com/@sukmaramadhanasri)
 
 
 
