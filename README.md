@@ -17,7 +17,4 @@ Hallo everyone, my name is Sukma Ramadhan Asri, you can call me Sukma I'm curren
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onedayxzn&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onedayxzn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=onedayxzn&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
 [![](https://visitcount.itsvg.in/api?id=Onedayxzn&label=Look%20me&pretty=true)](https://visitcount.itsvg.in)
